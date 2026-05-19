@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KomponenttiKirjasto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2704c80cd48be8e353dcef60b6f4af74a220136a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f21186d95cdc1f00bc24649b2ac23ee8450445")]
 [assembly: System.Reflection.AssemblyProductAttribute("KomponenttiKirjasto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KomponenttiKirjasto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
