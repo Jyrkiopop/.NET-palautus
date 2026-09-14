@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LunarLander")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4591da5620b64c4c2f86a4af9271456285ea84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf6d5a7e31bee42c5e8686baeeb4489e0b6a2c82")]
 [assembly: System.Reflection.AssemblyProductAttribute("LunarLander")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LunarLander")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

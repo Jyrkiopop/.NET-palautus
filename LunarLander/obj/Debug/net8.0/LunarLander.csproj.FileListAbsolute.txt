@@ -22,3 +22,5 @@ C:\Tiedostot\.NET-palautus\LunarLander\obj\Debug\net8.0\LunarLander.pdb
 C:\Tiedostot\.NET-palautus\LunarLander\obj\Debug\net8.0\LunarLander.genruntimeconfig.cache
 C:\Tiedostot\.NET-palautus\LunarLander\obj\Debug\net8.0\ref\LunarLander.dll
 C:\Tiedostot\.NET-palautus\LunarLander\bin\Debug\net8.0\Player.png
+C:\Tiedostot\.NET-palautus\LunarLander\bin\Debug\net8.0\Lose.mp3
+C:\Tiedostot\.NET-palautus\LunarLander\bin\Debug\net8.0\Win effect.mp3
